@@ -1,4 +1,4 @@
-<p align="center"> <img width="200" src="resources/Mirracle Icon (Color).png"/>
+<p align="center"> <img width="200" src="mirracle/icons/2.0/The Resonite Team Icons/Mirracle Icon (Color).png"/>
 
 # <p align="center"> 🪞✨ Mirracle, A feature-rich mirror [Facet](https://wiki.resonite.com/Facets) for the app [Resonite](https://resonite.com/)</p>
 
