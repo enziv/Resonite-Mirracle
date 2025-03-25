@@ -1,4 +1,4 @@
-Assets herein attributed to Enzi, based on iconds by The Resonite Team - licensed as [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
+Assets herein attributed to Enzi, based on icons by The Resonite Team - licensed as [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 
 Attribution 4.0 International
 
